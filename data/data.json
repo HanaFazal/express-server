@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Smile Bright Dentistry",
+    "id": "abf7e5e1-82b5-4b2d-9061-987c48213c4f",
+    "speciality": "dentistry",
+    "payment_plan": "yes",
+    "location": "downtown Toronto",
+    "rated": "4 star",
+    "availability": "within 1 week",
+    "image":"images/solution.png",
+    "services": ["cleaning", "checkup", "veneers"]
+  },
+  {
+    "name": "Pearl Orthodontics",
+    "id": "b13dbafe-2cb1-4f2e-a3de-743bdb71619b",
+    "speciality": "orthodontics",
+    "payment_plan": "no",
+    "location": "North York",
+    "rated": "3 star",
+    "availability": "within 2 weeks",
+    "image":"images/solution.png",
+    "services": ["braces", "checkup"]
+  },
+  {
+    "name": "Gleaming Gums Periodontics",
+    "id": "d56c68b4-ef6e-4db3-8f49-1d4b8cc7b86e",
+    "speciality": "periodontics",
+    "payment_plan": "yes",
+    "location": "Mississauga",
+    "rated": "5 star",
+    "availability": "within next month",
+    "image":"images/solution.png",
+    "services": ["wisdom teeth removal", "cleaning"]
+  },
+  {
+    "name": "Downtown Dental",
+    "id": "53c1a8a5-82c7-47f4-983e-d21327cfcf0c",
+    "speciality": "dentistry",
+    "payment_plan": "no",
+    "location": "downtown Toronto",
+    "rated": "2 star",
+    "availability": "within this month",
+    "image":"images/solution.png",
+    "services": ["checkup", "cleaning"]
+  },
+  {
+    "name": "Perfect Smile Orthodontics",
+    "id": "f2c22f64-91e4-4217-b2b3-073d17940a7f",
+    "speciality": "orthodontics",
+    "payment_plan": "yes",
+    "location": "North York",
+    "rated": "4 star",
+    "availability": "within 1 week",
+    "image":"images/solution.png",
+    "services": ["braces", "veneers"]
+  },
+  {
+    "name": "Healthy Gums Periodontics",
+    "id": "6b9b85fb-5b5d-4876-9a8f-e3188f72f0f8",
+    "speciality": "periodontics",
+    "payment_plan": "no",
+    "location": "Mississauga",
+    "rated": "3 star",
+    "availability": "within 2 weeks",
+    "image":"images/solution.png",
+    "services": ["cleaning", "wisdom teeth removal"]
+  },
+  {
+    "name": "Uptown Smile Dentistry",
+    "id": "e0327e0a-57e4-4d5c-9fa1-bde87b563cf4",
+    "speciality": "dentistry",
+    "payment_plan": "yes",
+    "location": "downtown Toronto",
+    "rated": "5 star",
+    "availability": "within next month",
+    "image":"images/solution.png",
+    "services": ["veneers", "checkup", "cleaning"]
+  },
+  {
+    "name": "Brighter Teeth Orthodontics",
+    "id": "c5fdcbf6-f802-4e7c-b2b2-daeab9794531",
+    "speciality": "orthodontics",
+    "payment_plan": "yes",
+    "location": "Mississauga",
+    "rated": "4 star",
+    "availability": "within this month",
+    "image":"images/solution.png",
+    "services": ["braces", "checkup"]
+  },
+  {
+    "name": "Oral Care Periodontics",
+    "id": "76dc35b7-8b3f-4ffb-9b2e-60e9e76a6732",
+    "speciality": "periodontics",
+    "payment_plan": "no",
+    "location": "North York",
+    "rated": "2 star",
+    "availability": "within 2 weeks",
+    "image":"images/solution.png",
+    "services": ["wisdom teeth removal", "cleaning"]
+  },
+  {
+    "name": "Toronto Teeth Dentistry",
+    "id": "9f9237c8-ace3-41b3-9516-d42d8e0e3e67",
+    "speciality": "dentistry",
+    "payment_plan": "yes",
+    "location": "downtown Toronto",
+    "rated": "3 star",
+    "availability": "within 1 week",
+    "image":"images/solution.png",
+    "services": ["checkup", "veneers"]
+  },
+  {
+    "name": "Smiles 4U Orthodontics",
+    "id": "5d2f7aa6-74b5-4292-9ed0-e3bf2d57e015",
+    "speciality": "orthodontics",
+    "payment_plan": "yes",
+    "location": "North York",
+    "rated": "5 star",
+    "availability": "within next month",
+    "image":"images/solution.png",
+    "services": ["braces", "veneers"]
+  },
+  {
+    "name": "Gums First Periodontics",
+    "id": "0844e67b-e002-4f02-9b29-bf164e69b034",
+    "speciality": "periodontics",
+    "payment_plan": "no",
+    "location": "Mississauga",
+    "rated": "1 star",
+    "availability": "within 2 weeks",
+    "image":"images/solution.png",
+    "services": ["cleaning", "wisdom teeth removal"]
+  },
+  {
+    "name": "Superior Dental Care",
+    "id": "d17d20de-b6b1-4b9a-9720-dfc1c75f3b1a",
+    "speciality": "dentistry",
+    "payment_plan": "yes",
+    "location": "downtown Toronto",
+    "rated": "5 star",
+    "availability": "within 1 week",
+    "image":"images/solution.png",
+    "services": ["checkup", "veneers", "cleaning"]
+  },
+  {
+    "name": "Smileworks Orthodontics",
+    "id": "35612db6-b3b2-4d9c-95d3-722e1e635e3b",
+    "speciality": "orthodontics",
+    "payment_plan": "no",
+    "location": "North York",
+    "rated": "3 star",
+    "availability": "within this month",
+    "image":"images/solution.png",
+    "services": ["braces", "checkup"]
+  },
+  {
+    "name": "Healthy Gums Periodontics",
+    "id": "4a4cb182-c35f-4e36-92a4-02f6df5f9f7e",
+    "speciality": "periodontics",
+    "payment_plan": "yes",
+    "location": "Mississauga",
+    "rated": "4 star",
+    "availability": "within next month",
+    "image":"images/solution.png",
+    "services": ["wisdom teeth removal", "cleaning"]
+  },
+  {
+    "name": "Dentistry Experts",
+    "id": "61ecf99b-14ab-45e4-a083-042e5bdeac27",
+    "speciality": "dentistry",
+    "payment_plan": "no",
+    "location": "downtown Toronto",
+    "rated": "1 star",
+    "availability": "within 2 weeks",
+    "image":"images/solution.png",
+    "services": ["checkup", "cleaning"]
+  },
+  {
+    "name": "Braces Now Orthodontics",
+    "id": "d87fe263-42cb-4747-9fbd-9b339a7e554d",
+    "speciality": "orthodontics",
+    "payment_plan": "yes",
+    "location": "North York",
+    "rated": "5 star",
+    "availability": "within next month",
+    "image":"images/solution.png",
+    "services": ["braces", "checkup"]
+  },
+  {
+    "name": "Gleaming Gums Periodontics",
+    "id": "197b9724-9c3b-4310-9cb2-67cdbd91d624",
+    "speciality": "periodontics",
+    "payment_plan": "no",
+    "location": "Mississauga",
+    "rated": "3 star",
+    "availability": "within 2 weeks",
+    "image":"images/solution.png",
+    "services": ["cleaning", "wisdom teeth removal"]
+  },
+  {
+    "name": "Toronto Dental Studio",
+    "id": "d2848e7b-4204-4bb2-830b-942bb0c44c52",
+    "speciality": "dentistry",
+    "payment_plan": "yes",
+    "location": "downtown Toronto",
+    "rated": "4 star",
+    "availability": "within 1 week",
+    "image":"images/solution.png",
+    "services": ["veneers", "cleaning", "checkup"]
+  },
+  {
+    "name": "Smile Today Orthodontics",
+    "id": "bdfb1a7c-9f5a-44f2-a90b-71de524a79c2",
+    "speciality": "orthodontics",
+    "payment_plan": "no",
+    "location": "North York",
+    "rated": "2 star",
+    "availability": "within this month",
+    "image":"images/solution.png",
+    "services": ["braces", "veneers"]
+  }
+]
